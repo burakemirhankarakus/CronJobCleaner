@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\services\\cleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\services\\cleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|c:\\users\\burak\\source\\repos\\cronjobcleaner\\cronjobcleaner\\entities\\temporarylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D782E-A2FC-4D0A-BF8A-A255E34E9169}|CronJobCleaner\\CronJobCleaner.csproj|solutionrelative:cronjobcleaner\\entities\\temporarylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\appsettings.json",
+              "RelativeDocumentMoniker": "CronJobCleaner\\appsettings.json",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\appsettings.json",
+              "RelativeToolTip": "CronJobCleaner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T13:39:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "CronJobCleaner\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:05:18.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Services\\CleanupService.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Services\\CleanupService.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Services\\CleanupService.cs",
+              "RelativeToolTip": "CronJobCleaner\\Services\\CleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:01:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Data\\SeedData.cs",
+              "RelativeToolTip": "CronJobCleaner\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:00:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Program.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Program.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Program.cs",
+              "RelativeToolTip": "CronJobCleaner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:59:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CronJobCleaner\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:58:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemporaryLog.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Entities\\TemporaryLog.cs",
+              "RelativeDocumentMoniker": "CronJobCleaner\\Entities\\TemporaryLog.cs",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\CronJobCleaner\\CronJobCleaner\\Entities\\TemporaryLog.cs",
+              "RelativeToolTip": "CronJobCleaner\\Entities\\TemporaryLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:56:53.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

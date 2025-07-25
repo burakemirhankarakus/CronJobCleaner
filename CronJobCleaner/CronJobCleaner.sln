@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronJobCleaner", "CronJobCleaner\CronJobCleaner.csproj", "{302D782E-A2FC-4D0A-BF8A-A255E34E9169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302D782E-A2FC-4D0A-BF8A-A255E34E9169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302D782E-A2FC-4D0A-BF8A-A255E34E9169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302D782E-A2FC-4D0A-BF8A-A255E34E9169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302D782E-A2FC-4D0A-BF8A-A255E34E9169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F33909-0A6D-4C5F-AAA5-7B51B9D5C7D8}
+	EndGlobalSection
+EndGlobal
